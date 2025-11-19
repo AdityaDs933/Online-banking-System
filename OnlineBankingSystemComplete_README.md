@@ -126,15 +126,3 @@ Ideas to improve or production-harden this demo:
 
 ---
 
-## License
-
-Use this demo code however you like — attribution appreciated. (No license file included.)
-
----
-
-If you'd like, I can:
-- convert this into a Maven/Gradle project structure,
-- split classes into files and create a sample `pom.xml`, or
-- update the code to use `BigDecimal` for money and hash passwords.
-
-Tell me what you'd prefer and I'll generate the changes.
